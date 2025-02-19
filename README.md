@@ -14,5 +14,4 @@ In this milestone, we structured and configured the backend for our E-commerce w
 
 - Organized Backend Code: Created dedicated folders for routes, controllers, and models to maintain a clean structure.
 - Initialized Node.js Server: Set up an Express.js server to handle API requests efficiently.
-- Connected to MongoDB: Integrated MongoDB using Mongoose for data storage and management.
 - Implemented Error Handling: Added basic error-handling mechanisms to ensure smooth server operations.
